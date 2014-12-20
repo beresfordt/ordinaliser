@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
+Java package to convert longs into ordinals, eg 1L -> first, 2L -> second,
+up to 999_999_999_999L ->nine hundred ninety nine billion nine hundred ninety nine million nine hundred ninety nine thousand nine hundred ninety and ninth
